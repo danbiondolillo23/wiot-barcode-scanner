@@ -1,4 +1,4 @@
-# Bluetooth-Based Inventory System
+# Bluetooth Barcode Scanning and Inventory Management System
 
 ## Project Collaborators
 - Daniel Biondolillo
